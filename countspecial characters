@@ -9,6 +9,7 @@ class HelloWorld {
             if(!Character.isDigit(s.charAt(i)) && !Character.isLetter(s.charAt(i)) && !Character.isWhitespace(s.charAt(i)))
             {
                 count++;
+                // this first commit
                             
             
             }else
